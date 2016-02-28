@@ -1,0 +1,29 @@
+m
+
+M
+
+,
+
+p
+
+P
+_
+
+you are waiting for a train. A train that'll take you far away. 
+you know where you hope this train will take you. but you cant know for sure.
+yet it dosent matter. now tell me why.
+because you'll be together
+
+
+
+--------path for ireport----
+C:\Users\M6\AppData\Roaming\NetBeans\8.0.1\modules\ext
+
+
+C:\Users\M6\Desktop\SLIIT\Year2\ST_II\Assignment\Project\BillingSystem_Test\src\ireports\Employee_Report.jasper
+
+where Category =
+
+
+
+
